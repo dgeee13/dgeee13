@@ -19,10 +19,17 @@
 
 <h3 align="left">⭐ Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debarati-ghatak-5a5960190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarati-ghatak-5a5960190" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cookie13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cookie13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/cookie13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cookie13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/debarati-ghatak-5a5960190" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/cookie13" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/cookie13" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="GFG" />
+  </a>
 </p>
+
 
 <p align="center" style="margin-top: -16px;">💗</p>
 
