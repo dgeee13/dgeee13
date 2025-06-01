@@ -11,7 +11,7 @@
 <p align="center" style="margin-top: -16px;">💗</p>
 
 <h3 align="left">🎀 A bit about me</h3>
-<p align="left">💁‍♀️ I’m a full-stack engineer at <a href="https://juspay.io/in">Juspay</a></p>
+<p align="left">💁‍♀️ I’m a software engineer at <a href="https://juspay.io/in">Juspay</a></p>
 <p align="left">🔭 Currently building <a href="https://github.com/juspay/hyperswitch">HyperSwitch</a> — an open-source payments orchestration platform</p>
 <p align="left">🌱 Deep diving into <strong>Rust</strong> and <strong>Kubernetes</strong> currently</p>
 
