@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/debarati-ghatak-5a5960190" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://www.leetcode.com/cookie13" target="_blank">
+  <a href="https://www.leetcode.com/dgeee13" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/cookie13" target="_blank">
